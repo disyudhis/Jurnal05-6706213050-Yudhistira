@@ -1,0 +1,5 @@
+6706213050 - Yudhistira Haryatmaka
+
+Penjelasan Soal2-Jurnal05-ISD
+
+Saya memanfaatkan fungsi LinkedList dan juga ListIterator dari Collections java sendiri. Ada 2 class yang saya buat, yang pertama adalah class main, untuk menjalankan project, dan juga class listTugas sebagai POJO. Isi dari listTugas sendiri diantaranya adalah constructor dan juga getter. Yang nanti dipanggil dari class main. Untuk permasalahan ini, saya menggunakan fungsi switch case untuk memilih menu yang tersedia. Pada kasus ini, saya harus membuat sebuah program yang menu dan fungsi nya adalah mengisi tugas to-do-list, menghapus tugas, dan juga mendisplay seluruh isi to do list. Untuk men-display isi dari to-do-list, saya menggunakan listIterator sebagai pointernya. Untuk menghapus isi dari list, saya juga menggunakan listIterator sebagai pointer dan juga menghapusnya berdasarkan nama. 
